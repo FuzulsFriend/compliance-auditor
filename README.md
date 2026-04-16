@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner - replace banner.png with the image you generate -->
-<img src="./assets/banner.png" alt="compliance-auditor - the AI compliance workflow for vibe coders" width="100%" />
+<img src="./assets/banner.jpg" alt="compliance-auditor - the AI compliance workflow for vibe coders" width="100%" />
 
 <h1>compliance-auditor</h1>
 
