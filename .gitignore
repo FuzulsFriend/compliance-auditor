@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Test / eval artifacts (regenerated on demand)
+.compliance-auditor-workspace/
+evals/results/
+*.log
+
+# Personal runs
+intake.md
